@@ -1,5 +1,3 @@
-# python_program
-
 # 🐍 python_program
 
 A modern, professional collection of Python programs for learning, practicing, and mastering Python.  
